@@ -1,0 +1,3 @@
+rootProject.name = 'KodluyoruzBootcampWorkshop1'
+
+include ':app'
